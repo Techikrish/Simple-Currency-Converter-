@@ -27,7 +27,7 @@
   
   
 
-   `https://github.com/Techikrish/Simple-Currency-Converter-.git` 
+  -   `https://github.com/Techikrish/Simple-Currency-Converter-.git` 
     
 2.  **Install Flask:**
     
@@ -37,13 +37,13 @@
     
     
     
-`pip install Flask` 
+ -  `pip install Flask` 
     
 3.  **Run the application:**
     
     
     
-`python app.py` 
+ -  `python app.py` 
     
 4.  **Open the application:**
     
