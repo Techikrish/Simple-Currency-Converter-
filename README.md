@@ -27,8 +27,7 @@
   
   
 
-   `git clone https://github.com/yourusername/currency-converter.git
-        cd currency-converter` 
+   `https://github.com/Techikrish/Simple-Currency-Converter-.git` 
     
 2.  **Install Flask:**
     
