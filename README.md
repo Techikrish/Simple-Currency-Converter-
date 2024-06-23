@@ -48,3 +48,10 @@
 4.  **Open the application:**
     
     Open your web browser and go to http://localhost:5000 to view the application.
+
+    Currency Code
+    USD
+    INR
+    GBP
+    CNY
+    AUD etc
